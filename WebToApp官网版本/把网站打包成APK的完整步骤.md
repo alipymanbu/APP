@@ -59,7 +59,7 @@
 
 | 选项 | 作用 | 第一次怎么选 |
 | --- | --- | --- |
-| 浏览器引擎 | 系统 WebView 或 GeckoView（GeckoView 首次使用需要先下载内核） | 先用系统 WebView |
+| 浏览器引擎 | 系统 WebView 或 GeckoView（GeckoView 首次使用需要先下载内核） | 先用系统 WebView，选了 GeckoView 会失去广告拦截与脚本注入，见 [浏览器内核选WebView还是GeckoView.md](浏览器内核选WebView还是GeckoView.md) |
 | 资源加密 | 对打包内容加密，可自定义密码；启用后会强制全量重建 | 先不开 |
 | 隔离 | 按应用隔离存储、WebRTC、Canvas、Audio、WebGL、字体等运行环境 | 先不开 |
 | 后台运行 | 让应用的服务在后台保持存活 | 按需要 |
