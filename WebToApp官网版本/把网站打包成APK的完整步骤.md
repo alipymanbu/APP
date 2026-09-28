@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **WebToApp 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2ebae789317d](https://pan.quark.cn/s/2ebae789317d)
+> **WebToApp 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/98da99a44c60](https://pan.quark.cn/s/98da99a44c60)
 
 ---
 

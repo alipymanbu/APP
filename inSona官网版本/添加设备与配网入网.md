@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **inSona 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/3a5631e8bd08](https://pan.quark.cn/s/3a5631e8bd08)
+> **inSona 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/77491809f54c](https://pan.quark.cn/s/77491809f54c)
 
 ---
 

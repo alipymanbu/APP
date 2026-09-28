@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **EasyClaw 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0f5a98351cb3](https://pan.quark.cn/s/0f5a98351cb3)
+> **EasyClaw 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7340bf871d64](https://pan.quark.cn/s/7340bf871d64)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **GptLove 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/44ae52573c87](https://pan.quark.cn/s/44ae52573c87)
+> **GptLove 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/42f2a8e32206](https://pan.quark.cn/s/42f2a8e32206)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Beloved 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/284188eed22e](https://pan.quark.cn/s/284188eed22e)
+> **Beloved 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c436140c0d9b](https://pan.quark.cn/s/c436140c0d9b)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ePSXe 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1577e81b4639](https://pan.quark.cn/s/1577e81b4639)
+> **ePSXe 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/16c23ffc4fd0](https://pan.quark.cn/s/16c23ffc4fd0)
 
 ---
 

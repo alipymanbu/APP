@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Akinator 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8ee295f821c7](https://pan.quark.cn/s/8ee295f821c7)
+> **Akinator 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/63e9b6f8055e](https://pan.quark.cn/s/63e9b6f8055e)
 
 ---
 

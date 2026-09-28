@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Animeko 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f7f43dccfad9](https://pan.quark.cn/s/f7f43dccfad9)
+> **Animeko 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f581b37ef550](https://pan.quark.cn/s/f581b37ef550)
 
 ---
 

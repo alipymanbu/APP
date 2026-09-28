@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **dynamicSpot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d5e6f675ac3a](https://pan.quark.cn/s/d5e6f675ac3a)
+> **dynamicSpot 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0ef422e72813](https://pan.quark.cn/s/0ef422e72813)
 
 ---
 

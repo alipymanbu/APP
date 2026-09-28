@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Voca AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cc7ad58e75ef](https://pan.quark.cn/s/cc7ad58e75ef)
+> **Voca AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/47f29931d9bf](https://pan.quark.cn/s/47f29931d9bf)
 
 ---
 

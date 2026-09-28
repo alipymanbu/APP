@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Taskade 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/479e6ba88c86](https://pan.quark.cn/s/479e6ba88c86)
+> **Taskade 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/dbc1ca65efcb](https://pan.quark.cn/s/dbc1ca65efcb)
 
 ---
 

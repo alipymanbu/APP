@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **AdGuard 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/88ad1d65d9fe](https://pan.quark.cn/s/88ad1d65d9fe)
+> **AdGuard 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d48a9bfcc27d](https://pan.quark.cn/s/d48a9bfcc27d)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **TiKie 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/be5662a42353](https://pan.quark.cn/s/be5662a42353)
+> **TiKie 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/094e565e3eed](https://pan.quark.cn/s/094e565e3eed)
 
 ---
 

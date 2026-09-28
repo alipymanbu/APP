@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **PaintVoice 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/44b5798feda8](https://pan.quark.cn/s/44b5798feda8)
+> **PaintVoice 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/766d2a56b5c4](https://pan.quark.cn/s/766d2a56b5c4)
 
 ---
 

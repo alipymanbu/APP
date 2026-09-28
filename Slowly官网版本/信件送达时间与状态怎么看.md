@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Slowly 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1371d9a46b68](https://pan.quark.cn/s/1371d9a46b68)
+> **Slowly 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/865800b827d0](https://pan.quark.cn/s/865800b827d0)
 
 ---
 

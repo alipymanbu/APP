@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **PaperYY 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/71639c751621](https://pan.quark.cn/s/71639c751621)
+> **PaperYY 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f78751b6a279](https://pan.quark.cn/s/f78751b6a279)
 
 ---
 

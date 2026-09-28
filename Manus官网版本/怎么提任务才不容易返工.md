@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Manus 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cae82d137147](https://pan.quark.cn/s/cae82d137147)
+> **Manus 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7b00c7c27273](https://pan.quark.cn/s/7b00c7c27273)
 
 ---
 

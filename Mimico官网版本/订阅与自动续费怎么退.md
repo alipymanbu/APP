@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Mimico 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4a30d673dd2c](https://pan.quark.cn/s/4a30d673dd2c)
+> **Mimico 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cfaf009578a1](https://pan.quark.cn/s/cfaf009578a1)
 
 ---
 

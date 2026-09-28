@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ColorBlendr 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cbab10a645c3](https://pan.quark.cn/s/cbab10a645c3)
+> **ColorBlendr 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/767a7a67b5e0](https://pan.quark.cn/s/767a7a67b5e0)
 
 ---
 

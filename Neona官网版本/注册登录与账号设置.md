@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Neona 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8240c339d122](https://pan.quark.cn/s/8240c339d122)
+> **Neona 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6846de2281c7](https://pan.quark.cn/s/6846de2281c7)
 
 ---
 

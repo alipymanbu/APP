@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Fishbowl 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e6563ef58056](https://pan.quark.cn/s/e6563ef58056)
+> **Fishbowl 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d7973899d779](https://pan.quark.cn/s/d7973899d779)
 
 ---
 

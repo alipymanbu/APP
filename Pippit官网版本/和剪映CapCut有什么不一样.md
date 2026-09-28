@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Pippit 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/25c878fd0d70](https://pan.quark.cn/s/25c878fd0d70)
+> **Pippit 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/74e0cf2d471f](https://pan.quark.cn/s/74e0cf2d471f)
 
 ---
 

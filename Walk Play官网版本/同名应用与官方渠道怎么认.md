@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Walk Play 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/618862ff7ac3](https://pan.quark.cn/s/618862ff7ac3)
+> **Walk Play 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/843b3dda66ef](https://pan.quark.cn/s/843b3dda66ef)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **microG 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f8cfe8fe47ff](https://pan.quark.cn/s/f8cfe8fe47ff)
+> **microG 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7dd99b719877](https://pan.quark.cn/s/7dd99b719877)
 
 ---
 

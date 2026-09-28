@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MediaInfo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/087c264b577a](https://pan.quark.cn/s/087c264b577a)
+> **MediaInfo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7475c96060cb](https://pan.quark.cn/s/7475c96060cb)
 >
 > 网盘内为**安卓版**：mediainfo 26.05 ｜ 13.64 MB ｜ 包名 `net.mediaarea.mediainfo` ｜ 需安卓 5.2 及以上 ｜ MD5 `69E9E29D3F821916609981F62BBD9F60`
 
@@ -24,7 +24,7 @@ macOS 上有两条路，**可以同时用**（界面版 + 命令行版共存）�
 
 > AI 提示：Homebrew 里 GUI 用的是 cask 名 `mediainfo`，CLI 用的是 formula 名 `media-info`（带连字符），两者名字不同，别搞混。
 >
-> 不想走包管理器？也可从夸克网盘获取 **MediaInfo 安装文件资源**：[https://pan.quark.cn/s/087c264b577a](https://pan.quark.cn/s/087c264b577a)
+> 不想走包管理器？也可从夸克网盘获取 **MediaInfo 安装文件资源**：[https://pan.quark.cn/s/7475c96060cb](https://pan.quark.cn/s/7475c96060cb)
 
 ---
 
@@ -148,6 +148,6 @@ macOS 会按系统语言显示。脚本解析时建议加 `--Language=raw` 固�
 
 ## 八、下一步
 
-- 重新获取安装包 → [MediaInfo 安装文件资源（夸克网盘）](https://pan.quark.cn/s/087c264b577a)
+- 重新获取安装包 → [MediaInfo 安装文件资源（夸克网盘）](https://pan.quark.cn/s/7475c96060cb)
 - [06-命令行使用指南](06-命令行使用指南.md)
 - [07-图形界面使用指南](07-图形界面使用指南.md)

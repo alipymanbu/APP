@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **AiPPT 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/33aa24de7c85](https://pan.quark.cn/s/33aa24de7c85)
+> **AiPPT 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fefac330e3cc](https://pan.quark.cn/s/fefac330e3cc)
 
 ---
 

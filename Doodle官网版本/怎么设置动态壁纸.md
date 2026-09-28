@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Doodle 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2b80ee669eb8](https://pan.quark.cn/s/2b80ee669eb8)
+> **Doodle 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/95326987d8da](https://pan.quark.cn/s/95326987d8da)
 
 ---
 

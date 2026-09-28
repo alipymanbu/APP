@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **LongCat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/65472af8ebda](https://pan.quark.cn/s/65472af8ebda)
+> **LongCat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2b20d773c34c](https://pan.quark.cn/s/2b20d773c34c)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **DayBetter 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/413f302b6a45](https://pan.quark.cn/s/413f302b6a45)
+> **DayBetter 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/40d331aec531](https://pan.quark.cn/s/40d331aec531)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BotHub 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4137579f412f](https://pan.quark.cn/s/4137579f412f)
+> **BotHub 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/67dbb4e6bbb9](https://pan.quark.cn/s/67dbb4e6bbb9)
 
 ---
 

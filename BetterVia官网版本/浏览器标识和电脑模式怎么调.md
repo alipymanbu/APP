@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **BetterVia 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9aeb35a12dc7](https://pan.quark.cn/s/9aeb35a12dc7)
+> **BetterVia 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7ae8d7f2de04](https://pan.quark.cn/s/7ae8d7f2de04)
 
 ---
 

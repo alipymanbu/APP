@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **PCMark 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/50c7ae6500a7](https://pan.quark.cn/s/50c7ae6500a7)
+> **PCMark 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/44d5e0e97338](https://pan.quark.cn/s/44d5e0e97338)
 
 ---
 

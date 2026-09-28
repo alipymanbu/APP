@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **XFolder 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cc0de1e171a8](https://pan.quark.cn/s/cc0de1e171a8)
+> **XFolder 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d6031c895527](https://pan.quark.cn/s/d6031c895527)
 
 ---
 

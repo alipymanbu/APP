@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **LSPosed 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/2d7b1b568b3d](https://pan.quark.cn/s/2d7b1b568b3d)
+> **LSPosed 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/293a930cd5dc](https://pan.quark.cn/s/293a930cd5dc)
 
 ---
 

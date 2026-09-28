@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Idolchat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/fbd3320d8d2c](https://pan.quark.cn/s/fbd3320d8d2c)
+> **Idolchat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6d5eb4605fcd](https://pan.quark.cn/s/6d5eb4605fcd)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ChatPlusAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/48176bfaaec0](https://pan.quark.cn/s/48176bfaaec0)
+> **ChatPlusAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/19cd3484ffe0](https://pan.quark.cn/s/19cd3484ffe0)
 
 ---
 

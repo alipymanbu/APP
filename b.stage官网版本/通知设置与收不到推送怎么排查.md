@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **b.stage 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/15f07159053b](https://pan.quark.cn/s/15f07159053b)
+> **b.stage 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/9b7c49808b42](https://pan.quark.cn/s/9b7c49808b42)
 
 ---
 

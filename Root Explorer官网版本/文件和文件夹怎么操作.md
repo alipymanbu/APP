@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Root Explorer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/37d883b91bc1](https://pan.quark.cn/s/37d883b91bc1)
+> **Root Explorer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/5eb0e466856e](https://pan.quark.cn/s/5eb0e466856e)
 
 ---
 

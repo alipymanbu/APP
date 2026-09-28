@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **iLovePDF 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b4e7524b3a73](https://pan.quark.cn/s/b4e7524b3a73)
+> **iLovePDF 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e82436f251b1](https://pan.quark.cn/s/e82436f251b1)
 
 ---
 

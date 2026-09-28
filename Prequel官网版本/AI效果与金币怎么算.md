@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Prequel 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/de1b9a709335](https://pan.quark.cn/s/de1b9a709335)
+> **Prequel 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8b4459cae000](https://pan.quark.cn/s/8b4459cae000)
 
 ---
 

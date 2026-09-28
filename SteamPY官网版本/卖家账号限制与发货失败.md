@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SteamPY 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/549451bfea5a](https://pan.quark.cn/s/549451bfea5a)
+> **SteamPY 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/56085e56aa73](https://pan.quark.cn/s/56085e56aa73)
 
 ---
 

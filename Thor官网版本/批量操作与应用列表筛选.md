@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Thor 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f51dd6da5c80](https://pan.quark.cn/s/f51dd6da5c80)
+> **Thor 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/352fe68d2d8c](https://pan.quark.cn/s/352fe68d2d8c)
 
 ---
 

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Yeelight 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0ef561c1dc7c](https://pan.quark.cn/s/0ef561c1dc7c)
+> **Yeelight 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/8b3c97720e1c](https://pan.quark.cn/s/8b3c97720e1c)
 
 ---
 

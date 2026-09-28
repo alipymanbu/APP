@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **FlowIn 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/0b02bd180ed5](https://pan.quark.cn/s/0b02bd180ed5)
+> **FlowIn 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/b9da3f5935c4](https://pan.quark.cn/s/b9da3f5935c4)
 
 ---
 

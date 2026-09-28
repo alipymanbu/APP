@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **MediaInfo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/087c264b577a](https://pan.quark.cn/s/087c264b577a)
+> **MediaInfo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7475c96060cb](https://pan.quark.cn/s/7475c96060cb)
 >
 > 网盘内为**安卓版**：mediainfo 26.05 ｜ 13.64 MB ｜ 包名 `net.mediaarea.mediainfo` ｜ 需安卓 5.2 及以上 ｜ MD5 `69E9E29D3F821916609981F62BBD9F60`
 
@@ -37,7 +37,7 @@
 
 > `.7z` 是 7-Zip 格式，Windows 自带解压不支持，需装 [7-Zip](https://www.7-zip.org/) 或用支持 7z 的解压工具。`.zip` 可直接右键解压。
 >
-> 懒得逐个去官网下载？**MediaInfo 安装文件资源**已整理在夸克网盘：[https://pan.quark.cn/s/087c264b577a](https://pan.quark.cn/s/087c264b577a)
+> 懒得逐个去官网下载？**MediaInfo 安装文件资源**已整理在夸克网盘：[https://pan.quark.cn/s/7475c96060cb](https://pan.quark.cn/s/7475c96060cb)
 
 ---
 
@@ -168,6 +168,6 @@ Windows 自带解压不支持 7z，请安装 7-Zip。
 
 ## 十、下一步
 
-- 重新获取安装包 → [MediaInfo 安装文件资源（夸克网盘）](https://pan.quark.cn/s/087c264b577a)
+- 重新获取安装包 → [MediaInfo 安装文件资源（夸克网盘）](https://pan.quark.cn/s/7475c96060cb)
 - 用命令行批处理 → [06-命令行使用指南](06-命令行使用指南.md)
 - 用界面看文件 → [07-图形界面使用指南](07-图形界面使用指南.md)

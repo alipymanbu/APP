@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **SauceNAO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7325c258e8c5](https://pan.quark.cn/s/7325c258e8c5)
+> **SauceNAO 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/eadf625201a3](https://pan.quark.cn/s/eadf625201a3)
 
 ---
 

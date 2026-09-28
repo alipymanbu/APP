@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **AppChecker 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/425987a5df36](https://pan.quark.cn/s/425987a5df36)
+> **AppChecker 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f539e764b2c6](https://pan.quark.cn/s/f539e764b2c6)
 
 ---
 

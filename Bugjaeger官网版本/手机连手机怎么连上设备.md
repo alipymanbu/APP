@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Bugjaeger 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4593a00894fd](https://pan.quark.cn/s/4593a00894fd)
+> **Bugjaeger 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1be4ae2ef549](https://pan.quark.cn/s/1be4ae2ef549)
 
 ---
 

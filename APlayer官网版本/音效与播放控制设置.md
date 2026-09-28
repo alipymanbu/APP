@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **APlayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/bdc408685da5](https://pan.quark.cn/s/bdc408685da5)
+> **APlayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/6abc188ed085](https://pan.quark.cn/s/6abc188ed085)
 
 ---
 

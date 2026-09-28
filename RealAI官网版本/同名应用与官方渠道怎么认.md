@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **RealAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/da557bbaccbc](https://pan.quark.cn/s/da557bbaccbc)
+> **RealAI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/303d60dd0f04](https://pan.quark.cn/s/303d60dd0f04)
 
 ---
 

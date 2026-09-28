@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Animius 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/4863ca9f00b1](https://pan.quark.cn/s/4863ca9f00b1)
+> **Animius 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/ca1c64bdd1fa](https://pan.quark.cn/s/ca1c64bdd1fa)
 
 ---
 
@@ -61,4 +61,4 @@
 
 ## 五、确认要装之后的入口
 
-决定用 Animius 了，安装文件资源就是本篇头部那条：[Animius 安装文件资源（夸克网盘）](https://pan.quark.cn/s/4863ca9f00b1)。装之前先按[下载与安装教程.md](下载与安装教程.md)第一节核对版本号、包名和 MD5，别装到同名产品的包上去。
+决定用 Animius 了，安装文件资源就是本篇头部那条：[Animius 安装文件资源（夸克网盘）](https://pan.quark.cn/s/ca1c64bdd1fa)。装之前先按[下载与安装教程.md](下载与安装教程.md)第一节核对版本号、包名和 MD5，别装到同名产品的包上去。

@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Muse AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/feac7f80faa2](https://pan.quark.cn/s/feac7f80faa2)
+> **Muse AI 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/52280385c437](https://pan.quark.cn/s/52280385c437)
 
 ---
 

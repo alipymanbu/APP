@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Mubeat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/43bf40b98d83](https://pan.quark.cn/s/43bf40b98d83)
+> **Mubeat 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/be44ffae262a](https://pan.quark.cn/s/be44ffae262a)
 
 ---
 

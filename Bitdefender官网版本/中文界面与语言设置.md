@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Bitdefender 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/d9c3dcd7d0da](https://pan.quark.cn/s/d9c3dcd7d0da)
+> **Bitdefender 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/03d1856aee1e](https://pan.quark.cn/s/03d1856aee1e)
 
 ---
 

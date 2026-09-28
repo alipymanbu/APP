@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **ThemeStore 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/15d4cb005c61](https://pan.quark.cn/s/15d4cb005c61)
+> **ThemeStore 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/bc49d5af0d6a](https://pan.quark.cn/s/bc49d5af0d6a)
 
 ---
 

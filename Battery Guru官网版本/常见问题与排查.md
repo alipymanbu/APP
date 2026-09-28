@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **Battery Guru 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/f4171e2c6c85](https://pan.quark.cn/s/f4171e2c6c85)
+> **Battery Guru 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/669b9928b735](https://pan.quark.cn/s/669b9928b735)
 
 ---
 

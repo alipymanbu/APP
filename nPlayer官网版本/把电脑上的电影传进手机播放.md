@@ -6,7 +6,7 @@
 ---
 
 > [!IMPORTANT]
-> **nPlayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/82ad1ac82f3b](https://pan.quark.cn/s/82ad1ac82f3b)
+> **nPlayer 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/7561e2224bfe](https://pan.quark.cn/s/7561e2224bfe)
 
 ---
 
